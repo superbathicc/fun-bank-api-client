@@ -1,0 +1,8 @@
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\bin\Debug\netcoreapp2.1\fun-bank-api-client.deps.json
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\bin\Debug\netcoreapp2.1\fun-bank-api-client.runtimeconfig.json
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\bin\Debug\netcoreapp2.1\fun-bank-api-client.runtimeconfig.dev.json
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\bin\Debug\netcoreapp2.1\fun-bank-api-client.dll
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\obj\Debug\netcoreapp2.1\fun-bank-api-client.csprojAssemblyReference.cache
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\obj\Debug\netcoreapp2.1\fun-bank-api-client.csproj.CoreCompileInputs.cache
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\obj\Debug\netcoreapp2.1\fun-bank-api-client.AssemblyInfoInputs.cache
+C:\code\csharp\fun-bank-api-client\fun-bank-api-client\obj\Debug\netcoreapp2.1\fun-bank-api-client.AssemblyInfo.cs
