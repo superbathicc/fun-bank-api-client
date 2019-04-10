@@ -3470,30 +3470,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kev55\\.nuget\\packages\\": {},
+    "C:\\Users\\Kouna\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\csharp\\fun-bank-api-client\\fun-bank-api-client\\fun-bank-api-client.csproj",
+      "projectUniqueName": "E:\\code\\csharp\\fun-bank-api-client\\fun-bank-api-client\\fun-bank-api-client.csproj",
       "projectName": "fun-bank-api-client",
-      "projectPath": "C:\\code\\csharp\\fun-bank-api-client\\fun-bank-api-client\\fun-bank-api-client.csproj",
-      "packagesPath": "C:\\Users\\kev55\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\csharp\\fun-bank-api-client\\fun-bank-api-client\\obj\\",
+      "projectPath": "E:\\code\\csharp\\fun-bank-api-client\\fun-bank-api-client\\fun-bank-api-client.csproj",
+      "packagesPath": "C:\\Users\\Kouna\\.nuget\\packages\\",
+      "outputPath": "E:\\code\\csharp\\fun-bank-api-client\\fun-bank-api-client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kev55\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Kouna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
